@@ -17,4 +17,5 @@
 
 ## Thanks to contributors
 
-- [You, it's you!](https://github.com/<username>)
+- [NextiaIndex](https://github.com/nextiaindex)
+- [vague2k](https://github.com/vague2k)
