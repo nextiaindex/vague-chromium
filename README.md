@@ -1,6 +1,6 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
-  <h1>Vague for App</h1>
+  <h1>Vague for Chromium</h1>
   <!-- Optional: add a preview screenshot here
   Use user-attachments instead of the assets/ folder to keep the repo minimal.
   Example:
